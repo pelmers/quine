@@ -1,0 +1,5 @@
+[package]
+
+name = "quine"
+version = "0.0.1"
+authors = ["Peter Elmers <peter.elmers@yahoo.com>"]
