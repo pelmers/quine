@@ -1,5 +1,5 @@
 # Print array of subsequent character ordinal offsets in string s
-s = r'''    print!("fn main() {{\n    let p:&[i8] = &{};\n", p);
+s = r'''    print!("fn main() {{\n    let p:&[i8] = &{:?};\n", p);
     let mut c = 0;
     for x in p.iter() {
         c += *x;
